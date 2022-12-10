@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/claudiabringaseverett/sms-respond-incoming#readme",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "twilio": "^3.31.0"
   }
 }
